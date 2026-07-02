@@ -8,7 +8,7 @@ There are lots of other resources for developers, so that isn't our target audie
 
 Contribute and be a part of history!
 
-![MM4M365 Logo](/docs/articles/images/mm3m365logo-64x64.jpg)
+![MM4M365 Logo](articles/images/mm3m365logo-64x64.jpg)
 If you're looking for the Maturity Model for Microsoft 365, please see the [Microsoft 365 Maturity Model](/maturity-model/).
 
 ## Questions & Help
