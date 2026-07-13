@@ -1,2 +1,4 @@
+items:
 - name: Articles
   href: articles/
+  topicHref: articles/index.md
