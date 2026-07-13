@@ -28,6 +28,7 @@
     "globalMetadata": {
       "_appName": "Microsoft 365 Community Content",
       "_appTitle": "Microsoft 365 Community Content",
+      "_appFaviconPath": "articles/images/",
       "_enableSearch": true,
       "pdf": false
     }
