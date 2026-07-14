@@ -10,6 +10,7 @@ ms.service: microsoft-365
 ms.localizationpriority: Low
 description: "Microsoft 365 Glossary"
 ms.collection: M365Community
+_disableAffix: true
 ---
 
 # Microsoft 365 Glossary
@@ -960,7 +961,7 @@ Microsoft Outlook is an email program for Windows, Mac, and mobile operating sys
 
 ## P
 
-## [PAYGO storage for SharePoint](https://modernworkplace.site/microsoft-ignite-2025-recap/)
+### [PAYGO storage for SharePoint](https://modernworkplace.site/microsoft-ignite-2025-recap/)
 
 A pay‑as‑you‑go storage option gives admins finer control over bursty repository growth and lifecycle costs—particularly useful for content‑heavy intranets and file archives. Details are evolving post‑Ignite 2025 announcements; expect parity with other SharePoint Premium PAYGO scenarios.
 

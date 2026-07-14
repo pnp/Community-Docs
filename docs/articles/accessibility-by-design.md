@@ -117,6 +117,6 @@ If we want to give more people a sense of community and belonging, we need to st
 
 ---
 
-**Principal author**: [Michael Roth](https://www.linkedin.com/in/michael-roth-handsomeguy/)
+**Principal author**: [Michael Roth, MVP](https://www.linkedin.com/in/michael-roth-handsomeguy/)
 
 ---
